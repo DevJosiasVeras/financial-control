@@ -1,7 +1,7 @@
 # financial-control
 financial-control in react 
 
-# npm i 
+npm i 
 
-# npm run dev 
+npm run dev 
 
